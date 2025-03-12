@@ -1,2 +1,0 @@
-- Rendre le formulaire accessible
-- rendre responsive
